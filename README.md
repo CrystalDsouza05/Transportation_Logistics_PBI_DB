@@ -1,6 +1,6 @@
 # Transportation_Logistics_PBI_DB
 
-### 📊 [Dashboard Link]([[https://app.powerbi.com/view?r=eyJrIjoiNTQzNGFmMDktMjZiOC00YTkwLWI5NjEtMGVhNzIwYmI0MDM2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiYzczZTA1Y2ItOTZmMS00OTQ5LTkwNjgtMTE0ZDEzNjhiMmQ4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)](https://app.powerbi.com/view?r=eyJrIjoiOTk0OTQzMWMtMDc3Ni00NjU0LTk0MDYtYTk0MGM4ZTNiMDA5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
+### 📊 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiOTk0OTQzMWMtMDc3Ni00NjU0LTk0MDYtYTk0MGM4ZTNiMDA5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## 📌 About this Dashboard
 This shipment analysis report provides a comprehensive overview of logistics performance, including total shipments, delivery timelines, and supplier-customer insights. It features geospatial mapping for real-time shipment tracking and flow analysis from origin to destination. Additionally, the logistics performance tracker highlights top drivers, trip duration trends, vehicle types, and GPS provider comparisons. Key enhancements include dynamic KPIs, interactive filters, and an information button for drill-down guidance, ensuring an intuitive and insightful reporting experience.
